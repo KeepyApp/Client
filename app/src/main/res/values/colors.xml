@@ -12,4 +12,8 @@
     <color name="primaryText">#212121</color>
     <color name="secondaryText">#757575</color>
     <color name="divider">#BDBDBD</color>
+    <color name="background_color">#7BD3EA</color>
+    <color name="accent_color">#A1EEBD</color>
+    <color name="secondary_color">#F6F7C4</color>
+    <color name="tertiary_color">#F6D6D6</color>
 </resources>
